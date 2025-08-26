@@ -209,7 +209,7 @@ export DEBUG=1
 
 ## License
 
-[License information]
+MIT
 
 ## Changelog
 
