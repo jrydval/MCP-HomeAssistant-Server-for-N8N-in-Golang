@@ -1,0 +1,13 @@
+{
+  "ha_token": "your_home_assistant_token_here",
+  "ha_url": "http://192.168.1.100:8123",
+  "entity_filter": [
+    "^light\\.",
+    "^switch\\."
+  ],
+  "entity_blacklist": [
+    "light\\.camera_villa_floodlight_timed",
+    "switch\\.camera_villa_",
+    "switch\\.zigbee2mqtt"
+  ]
+}
