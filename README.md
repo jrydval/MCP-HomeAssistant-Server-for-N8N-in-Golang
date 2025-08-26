@@ -2,6 +2,11 @@
 
 MCP (Model Context Protocol) server for Home Assistant integration. Allows AI assistants like Claude to control lights and switches in your Home Assistant installation.
 
+<img width="1056" height="499" alt="image" src="https://github.com/user-attachments/assets/cc267d75-e439-4a8f-8900-b88196bc4dbf" />
+
+<img width="1029" height="466" alt="image" src="https://github.com/user-attachments/assets/472c80d5-4b43-4525-b59a-507009c9ef80" />
+
+
 ## Features
 
 - **Entity Control**: Turn lights and switches on/off
