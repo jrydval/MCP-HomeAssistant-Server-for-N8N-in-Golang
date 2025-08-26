@@ -92,8 +92,6 @@ Get current states of all lights and switches.
 Control individual entities:
 - `entity_id`: Entity ID (e.g., "light.living_room")
 - `state`: "on" or "off"
-- `brightness`: 0-255 (lights only)
-- `rgb_color`: [r,g,b] array (lights only)
 
 #### 3. control_multiple_entities
 Control multiple entities at once. Supports two modes:
